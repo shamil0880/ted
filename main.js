@@ -1,3 +1,3 @@
 $(document).ready(function(){
-	$('#id')
+ $('h1').dblclick(function(){
 });
